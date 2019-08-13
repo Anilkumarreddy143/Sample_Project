@@ -207,7 +207,7 @@
 	      <snapshotRepository>
 		  <id>deployment</id>
 		  <name>2</name>
-		  <url>http://18.206.189.241:8081/nexus/content/repositories/nexus/</url>
+		  <url>http://18.206.189.241:8081/nexus/content/repositories/Nexus-Snapshot/</url>
 	      </snapshotRepository>
 	 </distributionManagement>
 	<name>simple-web-app</name>
