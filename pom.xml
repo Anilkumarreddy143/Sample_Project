@@ -202,7 +202,7 @@
               <repository>
 		  <id>deployment</id>
 	          <name>Internal releases</name>
-		      <url>http://18.206.189.241:8081/nexus/content/repositories/nexus1/</url>
+		      <url>http://54.225.22.121:8081/nexus/content/repositories/Nexus/</url>
 	      </repository>
 	      <snapshotRepository>
 		  <id>deployment</id>
