@@ -200,14 +200,14 @@
 	</build>
 	 <distributionManagement>
               <repository>
-		  <id>deployment</id>
+		  <id>Nexus-Release</id>
 	          <name>Internal releases</name>
-		      <url>http://54.225.22.121:8081/nexus/content/repositories/Nexus/</url>
+		      <url>http://54.165.92.63:8081/nexus/content/repositories/Nexus-Release/</url>
 	      </repository>
 	      <snapshotRepository>
-		  <id>deployment</id>
+		  <id>Nexus-Snapshot</id>
 		  <name>2</name>
-		  <url>http://18.206.189.241:8081/nexus/content/repositories/Nexus-Snapshot/</url>
+		  <url>http://54.165.92.63:8081/nexus/content/repositories/Nexus-Snapshot/</url>
 	      </snapshotRepository>
 	 </distributionManagement>
 	<name>simple-web-app</name>
