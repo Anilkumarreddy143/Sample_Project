@@ -202,7 +202,7 @@
               <repository>
 		  <id>Nexus-Release</id>
 	          <name>Release</name>
-		      <url>//http://3.220.232.131:8085/nexus/content/repositories/Nexus-Release/</url>
+		      <url>http://3.220.232.131:8085/nexus/content/repositories/Nexus-Release/</url>
 	      </repository>
 	      <snapshotRepository>
 		  <id>Nexus-Snapshot</id>
